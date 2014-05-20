@@ -1,0 +1,385 @@
+bplist00Ò_WebSubresources_WebMainResource¡Ó	
+_WebResourceData^WebResourceURL_WebResourceMIMETypeO
+body {
+	
+	font-family: verdana;
+}
+
+
+
+a.button {
+background-color: white;
+color: black;
+height: 20px;
+margin: 10px 5px 10px 5px;
+padding: 5px 5px 5px 5px;
+text-align: center;
+font-family: verdana;
+font-weight: bold;
+text-decoration: none;
+}
+
+.ru {
+ line-height: 18px;
+}
+
+.digital {
+
+color: white;
+text-align: center;
+font-family: verdana;
+font-weight: bold;
+font-size: 30pt;
+
+}
+
+.electric {
+ 	width:950px;
+	font-family: verdana;
+	font-size: 12pt;
+}
+
+.electric_left {
+	width:400px;
+	float:left;
+
+}
+
+.electric_right {
+	float:right;
+	width:500px;
+/*	padding: 0px 5px 5px 35px; */
+	font-size: 8pt;
+
+}
+.electric_clear {
+	clear:both;
+
+}
+
+.kerouac {
+margin-left: 520;
+color:yellow;
+font-size: 10pt;
+}
+
+
+.tokyo {
+width:527px;
+}
+
+.bodhi {
+width:500px;
+text-decoration: none;
+font-family:monospace;
+}
+
+a.bodhil {
+text-decoration: none;
+color:green;
+}
+
+a.ker {
+color:yellow;
+}
+
+a.mouth {
+color:660033;
+text-decoration: none;
+}
+
+.hop {
+text-decoration: none;
+color: white;
+font-size: 14pt;
+}
+
+.jane {
+text-decoration: none;
+font-size: 13pt;
+width:500px;
+}
+
+.lolipop {
+float:right;
+}
+.lolipopL {
+width:500px;
+float:left;
+}
+a.lolipoplink {
+text-decoration: none;
+color:purple;
+}
+
+.whites {
+text-decoration: none;
+color: red;
+}
+
+.beat_poem {
+font-size:10pt;
+width:800px;
+background-color:white;
+}
+
+.darkness {
+font-size:14pt;
+
+}
+
+.cubelayout_center_l {
+width:400px;
+}
+.cubelayout_center_l2 {
+width:600px;
+font-size:12pt;
+}_thttp://www.hcs.harvard.edu/~present/technical%20stuff/not%20worth%20looking%20at/we%20warned%20you/style/present.cssXtext/cssÔ_WebResourceTextEncodingNameUUTF-8O-Š<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" ""><HTML><HEAD><TITLE>Present!</TITLE><META http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><LINK rel="stylesheet" type="text/css" href="technical%20stuff/not%20worth%20looking%20at/we%20warned%20you/style/present.css"></HEAD><BODY>
+<DIV align="center"> 
+  <P>Present! Issue # 2.,.,.,., ::-- Table of Contents.<BR>
+  </P>
+  <P>Inside: Music, Images, Poems, Proses, Poetry, Prosetry, Videos, Dances, REVOLUTION, 
+    kindness, bread and cheese and trees, giant ROBOTS and strange beasts, and 
+    Comic books, and also music+videos, and interviews with famouse peoples who 
+    also may or may not have given us music, beets, Beats, Beatification, in the 
+    form of a three dimensional infinite castle, a maze or labrinth or labrynth 
+    or so, SEAMUS HEANEY and music by PHIL ELVRUM as well as an interview and 
+    and interview about CALVIN JOHNSON where he talks about beats.</P>
+  <P>Â </P>
+  <P><A href="artworks/text/">HERE ARE ALL OF THE TEXTSsss..0-</A></P>
+  <P><A href="stuff_for_magazine/images/index.html">HERE ARE THE IMAGES</A></P>
+  <P><A href="stuff_for_magazine/video/">HERE ARE SOME VIDEOS</A></P>
+  <P><A href="stuff_for_magazine/sound/">HERE ARE SOME SOUNDS</A></P>
+  <P>Â </P>
+  <P><STRONG>Gateways:</STRONG></P>
+  <P><A href="presents/malmain.html">Mal Sitting with a Painted Face, a Gateway.</A></P>
+  <P><A href="presents/jimtown.html">Jim Town, a Gateway.</A></P>
+  <P><A href="presents/digital_age.html">Digital Age, a Gateway.</A></P>
+  <P><A href="presents/cubeville.html">Cubeville, a Gateway</A></P>
+  <P>Â </P>
+  <P><STRONG><EM>ARTS:</EM></STRONG></P>
+  <P>Â </P>
+  <P><STRONG>Images:</STRONG></P>
+  <P>The Beasts: (sublist) Many Legs.... More?</P>
+  <P>The Comics: (sublist), JIM IS DESIGNING A COMICS GALLERY</P>
+  <P>abigail1.jpg<BR>
+    alexr1.jpg<BR>
+    alexr2.jpg<BR>
+    annie.jpg<BR>
+    armman.jpg<BR>
+    brianpark.jpg<BR>
+    crackduck.jpg<BR>
+    dino.jpg<BR>
+    koreanraptor.jpg<BR>
+    lucyartist.jpg<BR>
+    neilsgrosscomic.jpg<BR>
+    options.jpg<BR>
+    present1.jpg<BR>
+    present2.jpg<BR>
+    reference.jpg<BR>
+    ronenchef.jpg<BR>
+    smilingcat1.jpg<BR>
+    smilingcat2.jpg<BR>
+    soalone.jpg<BR>
+    stampede.jpg<BR>
+    the wild rumble 1.jpg<BR>
+    the wild rumble 2.jpg<BR>
+    topiaryman1.jpg<BR>
+    topiaryman2.jpg<BR>
+    topiaryman3.jpg<BR>
+    unknownauthor.jpg<BR>
+    unknownauthor2.jpg<BR>
+    walking.jpg<BR>
+    yourteethwhiter.jpg</P>
+  <P><A href="presents/cubewebcomic/index.html">Jim's Cube Comic</A><BR>
+    It ain't easy being green.</P>
+  <P><A href="presents/cube/index.html">The Cube Photo Gallery, Pictures by Jim 
+    and Sasha and Others, JIMWILLDESIGN</A></P>
+  <P> <BR>
+    <A href="presents/folded.html">folded0002.jpg</A> <BR>
+    <A href="presents/folded3.html">folded0003.jpg</A><BR>
+    <A href="presents/folded4.html">folded0004.jpg</A></P>
+  <P><A href="presents/folded/foldedisee.html">icy.jpg</A><BR>
+    <A href="presents/folded/folded8eyzz.html">icy2.jpg</A><BR>
+    <A href="presents/folded/foldedithreesee.html">icy3.jpg</A><BR>
+    <A href="presents/folded/folded23124.html">icy4.jpg</A><BR>
+    <A href="presents/folded/folded23ff324.html">icy5.jpg</A><BR>
+    <A href="presents/folded/foldediseesix.html">icy6.jpg</A></P>
+  <P><A href="presents/bodhitree.htm">Jim's To Destroy a Computer Gallery</A></P>
+  <P><A href="presents/malgal.html">Mal's Amazing Photos:<BR>
+    All of them, JIM WILL MAKE A GALLERY, or Individually:<BR>
+    100_2124.JPG<BR>
+    117_1763.JPG<BR>
+    120_2001.JPG<BR>
+    120_2003.JPG<BR>
+    120_2017.JPG<BR>
+    122_2224_2.JPG<BR>
+    122_2229_2.JPG<BR>
+    122_2240_2.JPG<BR>
+    122_2263.JPG<BR>
+    123_2328.JPG<BR>
+    123_2374.JPG<BR>
+    124_2404.JPG<BR>
+    128_2820.JPG<BR>
+    128_2821.JPG<BR>
+    128_2848.JPG<BR>
+    130_3037.JPG<BR>
+    131_3176.JPG<BR>
+    134_3437.JPG<BR>
+    134_3446.JPG<BR>
+    134_3456.JPG<BR>
+    134_3471.JPG<BR>
+    134_3484.JPG<BR>
+    134_3489.JPG<BR>
+    134_3493.JPG </A></P>
+  <P>The Yearbook Pictures<BR>
+    1, <A href="presents/castle/Z/D3.html">2,</A> 3</P>
+  <P><A href="presents/folded/foldedPEAR.html">abigail pears.jpg</A><BR>
+    <A href="presents/castle/Z/D2.html">boyparts.jpg</A><BR>
+    <A href="presents/folded/folded66Akklo.html">Brendan on Night Wall.jpg</A><BR>
+    <A href="presents/castle/Z/C3.html">card1.jpg</A><BR>
+    <A href="presents/castle/Z/A1.html">card2.jpg</A><BR>
+    <A href="presents/castle/Z/B1.html">chris.jpg</A><BR>
+    <A href="presents/folded/foldedclaahr.html">claire005.jpg</A><BR>
+    claire020.jpg<BR>
+    drummer with stars.jpg --&gt; Jim<BR>
+    dsc00466.jpg<BR>
+    dsc_0007.jpg<BR>
+    dsc_0008.jpg --&gt; Jim<BR>
+    <A href="presents/jackkerouac2.htm">foetea</A><BR>
+    <A href="presents/electric_symbols/food_guide_1944.html">food_guide_1944</A><BR>
+    goosegander.jpg<BR>
+    IMG_0158.JPG<BR>
+    <A href="presents/castle/Z/C4.html">inauguration.jpg</A><BR>
+    <A href="artworks/images/inauguration1.jpg">inauguration1.jpg</A><BR>
+    <A href="artworks/images/inauguration2.jpg">inauguration2.jpg</A><BR>
+    inauguration3.jpg --&gt; Jim<BR>
+    <A href="presents/electric_symbols/robot_attacking_the_castle.html">inauguration4.jpg</A><BR>
+    <A href="presents/jackkerouac.htm">jack kerouac</A><BR>
+    <A href="presents/folded/foldedMCSEX.html">jim - mcdonalds next to a sex shop 
+    in amsterdam.JPG</A><BR>
+    jonah.kanin.jpg --&gt; Jim<BR>
+    <A href="presents/folded/foldedkazhtml.htm">kasia.jpg</A><BR>
+    <A href="presents/knife.html">knife men</A><BR>
+    latch_key.jpg --&gt; Jim<BR>
+    lucy.jpg --&gt; Jim<BR>
+    <A href="presents/folded/foldedhan.html">My Hand.jpg</A><BR>
+    <A href="presents/folded/foldedneeessa.html">neasa.jpg</A><BR>
+    <A href="presents/castle/Z/C1.html">old man.jpg</A><BR>
+    <A href="presents/folded/foldedrac1.html">present1, by Bea Camacho</A><BR>
+    <A href="presents/folded/foldedrac2.html">present2, by Bea Camacho </A><BR>
+    <A href="presents/electric_symbols/present3.html">present3, by Bea Camacho</A><BR>
+    presentposter.jpg --&gt; Jim<BR>
+    <A href="presents/electric_symbols/epigraph.html">profile.jpg</A><BR>
+    <A href="presents/folded/foldedtaihp.html">scan.jpg</A><BR>
+    <A href="presents/castle/Z/A2.html">se6439.jpg</A><BR>
+    seamus.jpg --&gt; Jim<BR>
+    <A href="presents/sbtokyo.html">tokyo5.jpg</A><BR>
+    <A href="presents/folded/foldedswash.html">washroom.jpg by thomas</A><BR>
+    <A href="presents/folded/foldedsad.html">sad elephant.jpg by Jim and associate 
+    press</A><BR>
+    lexy by Jim --&gt; Jim<BR>
+    <A href="presents/folded/foldedduhk.html">duck by Jim</A><BR>
+    flyer by Jim</P>
+  <P><A href="presents/manifestations.html">Two Manifestations of The Inner Essence 
+    of Thomas Bechtold</A></P>
+  <P>Â </P>
+  <P><STRONG>Texts:</STRONG></P>
+  <P><EM>Poems:</EM></P>
+  <P> <A href="presents/castle/Z/C2.html">baby strollers used by icelandic mothers 
+    by jonathan leong</A><BR>
+    beat associating.txt --&gt; Jim<BR>
+    <A href="presents/beatruebeliever/000001.html">beat ruebeliev er, by Justine</A><BR>
+    beat the world.txt --- d..ALEX<BR>
+    bestiary.txt --&gt; Jimn<BR>
+    chulitna Jenny Davis.doc --&gt; Jim<BR>
+    conversations with vegetables.txt<BR>
+    <A href="presents/darkness.html">darkness6.doc</A><BR>
+    <A href="presents/electric_symbols/epigraph.html">epigraph</A><BR>
+    for a friend going to war.txt -- d.. ALEX<BR>
+    Free Association.doc -- d.NEASA<BR>
+    googlism beat poetry.justine.doc --&gt; Jim<BR>
+    <A href="presents/jackkerouac.htm">I'm with you</A><BR>
+    King's Death by Paloma Yannakakis -- D. DDAVID<BR>
+    <A href="presents/lollipoppoem.html">lollipop poem</A><BR>
+    <A href="presents/beatpoeminserachofasubject.html">mgould zizek-politique.doc</A><BR>
+    nonsanguiniety.txt -- D. ALEX<BR>
+    on finding a lost notebook -- D. DAVID<BR>
+    our beat world.txt --&gt;MAL<BR>
+    play.doc --&gt;MAL<BR>
+    <A href="presents/electric_symbols/robot_attacking_the_castle.html">A Robot 
+    is Attacking the Capitol of the European Union, But I Donâ€™t Care, by 
+    Ben Black</A><BR>
+    prehistory.txt -- D. SASHA<BR>
+    syllogisms.txt --&gt; Jim<BR>
+    the box's friends.txt -- D. ALEX<BR>
+    the two friends etc.txt --&gt; Jim<BR>
+    two whites: <A href="presents/whites.html">Version 1</A>, <A href="presents/--hopital.html">Version 
+    2</A>; Original French <A href="presents/twowhites.html">Version 2</A><BR>
+    <A href="presents/castle/Z/B2.html">verba volent.doc</A></P>
+  <P><EM>Proses:</EM><BR>
+    <A href="presents/POSTHUM%20TEST%20INFRA.htm">A Primer for the Future by Tyler 
+    Coburn<BR>
+    beatified</A><BR>
+    <A href="presents/beatifeye.html">bee at if eye</A><BR>
+    bestiary.txt --&gt;Jim<BR>
+    choir of millions rivers.doc<BR>
+    claire_present.doc -- D. NEASA<BR>
+    interview - Calvin Johnson.doc -- D. ALEX<BR>
+    interview - dariorobleto.doc --&gt;MAL<BR>
+    interview - elverum.doc -- D. ALEX<BR>
+    ireland.doc --&gt;MAL<BR>
+    Jon.doc --&gt; Jim<BR>
+    notes from slumber party.doc --&gt; Jim<BR>
+    <A href="presents/ouroboros.html">practical uses for an oroboros, by Jim Fingal</A><BR>
+    PANOPTISME, SPECTACLE ET TOTALITARISME.txt<BR>
+    <A href="presents/sacred.html">sacred geometry</A><BR>
+    so i was distributing typ.doc --&gt; Jim<BR>
+    <A href="presents/sweetjane.html">stanton - 12 oct 2004, fags.doc</A><BR>
+    statement2.doc --&gt; Jim<BR>
+    tbechtoldGrowingThings.doc --&gt; Jim<BR>
+    <A href="presents/electric_symbols/unified_beat_theory.html">the unified beat 
+    theory of the universe</A>, by Tim<BR>
+    theoretical band.txt --&gt; Jim<BR>
+    <A href="presents/bodhitree.htm">The Bodhi Tree, see also: videos. Music, 
+    Text, Images, and Revolution by Ryan Quinn and Jim Fingal</A><BR>
+    <A href="presents/sbtokyo.html">tokyo, by Sarah Burke</A><BR>
+    who is right.txt<EM> --&gt;MAL</EM></P>
+  <P><STRONG>Videos:</STRONG><BR>
+    beets.swf --&gt; Jim<BR>
+    Chattanooga Springs.wmv<BR>
+    ginsberg.lsd.mov<BR>
+    ginsberg1.mov<BR>
+    instructions.WMV (Jim)<BR>
+    kerouac_6_excerpts.mov<BR>
+    manincrowd.mov --&gt; Cool, but Blatant copyright violation? Maybe not include.<BR>
+    <A href="presents/POSTHUM%20TEST%20INFRA.htm">POSTHUM TEST INFRA</A><BR>
+    sfeir.swf --&gt;Jim<BR>
+    surrealme.mov --&gt; Cool, but Blatant copyright violation? Maybe not include.<BR>
+    <A href="presents/bodhitree.htm">The Bodhi Tree, see also: videos. Music, 
+    Text, Images, and Revolution by Ryan Quinn and Jim Fingal</A> <BR>
+    valley.wmv<BR>
+    xiubeat3.19.mpg </P>
+  <P><A href="presents/ourkelly.html">Gigi and Jon Carter Music Videos: cleaning 
+    out closet.mpg<BR>
+    gotham city.mpg</A></P>
+  <P><STRONG>Sounds:</STRONG></P>
+  <P>Jim's Sounds, which he will design!:<BR>
+    <A href="presents/cubesoundsfrm.htm">Cube Sounds</A><BR>
+    <A href="presents/PIETY.html">Piety</A><BR>
+    <A href="presents/chest1.html">Andromeda</A><BR>
+    <A href="presents/chest3.html">waranallosaurusvsadogwithamouseforthejudge.mp3</A><BR>
+    <A href="presents/chest2.html">Klang</A> <BR>
+  </P>
+  <P><A href="presents/musictoourears.html">drumstobassrapshort.mp3<BR>
+    january twentieth two thousand and five.mp3</A><BR>
+    On Cremation of Chogyam Trungpa.mp3<BR>
+    Orioles and Tanagers.mp3 --&gt; Jim<BR>
+    <A href="presents/musictoourears.html">phil elvrum - Human.mp3</A><BR>
+    Radio D.I.Y. Television.mp3 --&gt; Jim<BR>
+    <A href="presents/musictoourears.html">yan xuan - a relatively simple beat.mp3<BR>
+    yan xuan and chang liu - beatless beat.mp3 </A></P>
+  <P>Â </P>
+   </DIV>
+
+</BODY></HTML>_8http://www.hcs.harvard.edu/~present/tableofcontents.htmlYtext/html    1 3 : L [ qôkt}›¡4/4j                           4t

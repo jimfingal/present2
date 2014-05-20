@@ -1,0 +1,187 @@
+
+body {
+	
+	font-family: verdana;
+}
+
+
+
+a.button {
+background-color: white;
+color: black;
+height: 20px;
+margin: 10px 5px 10px 5px;
+padding: 5px 5px 5px 5px;
+text-align: center;
+font-family: verdana;
+font-weight: bold;
+text-decoration: none;
+}
+
+a.toclink {
+font-weight: bold;
+color: black;
+text-decoration: none;
+}
+
+.ru {
+ line-height: 18px;
+}
+
+.digital {
+
+color: white;
+text-align: center;
+font-family: verdana;
+font-weight: bold;
+font-size: 30pt;
+
+}
+
+.electric {
+ 	width:950px;
+	font-family: verdana;
+	font-size: 12pt;
+}
+
+.electric_left {
+	width:400px;
+	float:left;
+
+}
+
+.electric_right {
+	float:right;
+	width:500px;
+/*	padding: 0px 5px 5px 35px; */
+	font-size: 8pt;
+
+}
+.electric_clear {
+	clear:both;
+
+}
+
+.kerouac {
+margin-left: 520;
+color:yellow;
+font-size: 10pt;
+}
+
+
+.tokyo {
+width:527px;
+}
+
+.bodhi {
+width:500px;
+text-decoration: none;
+font-family:monospace;
+}
+
+a.bodhil {
+text-decoration: none;
+color:green;
+}
+
+a.ker {
+color:yellow;
+}
+
+a.mouth {
+color:660033;
+text-decoration: none;
+}
+
+.hop {
+text-decoration: none;
+color: white;
+font-size: 14pt;
+}
+
+.jane {
+text-decoration: none;
+font-size: 13pt;
+width:500px;
+}
+
+.lolipop {
+float:right;
+}
+.lolipopL {
+width:500px;
+float:left;
+}
+a.lolipoplink {
+text-decoration: none;
+color:purple;
+}
+a.img {
+text-decoration: none;
+color:white;
+
+}
+
+.whites {
+text-decoration: none;
+color: red;
+}
+
+.play {
+text-decoration: none;
+background-color: white;
+}
+
+.beat_poem {
+font-size:10pt;
+width:800px;
+background-color:white;
+}
+
+.darkness {
+font-size:14pt;
+
+}
+
+.cubelayout_center_l {
+width:400px;
+}
+.cubelayout_center_l2 {
+width:600px;
+font-size:10pt;
+}
+
+.toc {
+width:900px;
+font-size:12pt;
+font-family: courier, courier new, monospace;
+}
+
+.toc_bigtitle {
+font-size:25pt;
+}
+
+.toc_medtitle {
+font-size:20pt;
+}
+
+.toc_smalltitle {
+font-size:18pt;
+}
+
+.toc_smalltext {
+font-size:10pt;
+}
+
+a {
+text-decoration: none;
+font-weight: bold;
+}
+
+.dr {
+width:700px;
+}
+
+.drcap {
+width:500px;
+}

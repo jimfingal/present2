@@ -1,0 +1,186 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><!-- InstanceBegin template="/Templates/present!.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Present!</title>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_controlSound(x, _sndObj, sndFile) { //v3.0
+  var i, method = "", sndObj = eval(_sndObj);
+  if (sndObj != null) {
+    if (navigator.appName == 'Netscape') method = "play";
+    else {
+      if (window.MM_WMP == null) {
+        window.MM_WMP = false;
+        for(i in sndObj) if (i == "ActiveMovie") {
+          window.MM_WMP = true; break;
+      } }
+      if (window.MM_WMP) method = "play";
+      else if (sndObj.FileName) method = "run";
+  } }
+  if (method) eval(_sndObj+"."+method+"()");
+  else window.location = sndFile;
+}
+//-->
+</script>
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" type="text/css" href="../technical%20stuff/not%20worth%20looking%20at/we%20warned%20you/style/present.css"> 
+<!-- BEGIN CODE -->
+
+<script language="JavaScript">
+<!--
+
+function showmenu() {
+ if (document.getElementById("menu").style.visibility == "hidden") {
+  document.getElementById("menu").style.visibility = "visible";
+ } else {
+  document.getElementById("menu").style.visibility = "hidden";
+ }
+}
+
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+
+<!-- END CODE -->
+</head>
+<body> 
+<!-- BEGIN NAV -->
+
+<div id="button" style="position:absolute;top:0;left:0"><img src="button.gif"
+onClick="showmenu();"></div>
+
+<div id="menu"
+style="visibility:hidden;position:absolute;left:0;top:41px">
+
+<table id="menu" width="281" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+		
+      <td colspan="2" rowspan="2"> <a href="text_toc.html"><img src="_nav_01.gif" alt="" name="nav_text" width="62" height="155" border="0" id="_nav_01" /></a></td>
+		
+      <td colspan="2"> <a href="text_toc.html#poetry"><img src="_nav_02.gif" alt="" name="nav_poetry" width="218" height="109" border="0" id="_nav_02" /></a></td>
+		<td>
+			<img src="spacer.gif" width="1" height="109" alt="" /></td>
+	</tr>
+	<tr>
+		
+      <td colspan="2" rowspan="2"> <a href="text_toc.html#prose"><img src="_navb_08.gif" alt="" name="nav_prose" width="218" height="82" border="0" id="_nav_03" /></a></td>
+		<td>
+			<img src="spacer.gif" width="1" height="46" alt="" /></td>
+	</tr>
+	<tr>
+		
+      <td colspan="2" rowspan="3"> <a href="sound_toc.html"><img src="_nav_04.jpg" alt="" name="nav_sound" width="62" height="130" border="0" id="_nav_04" /></a></td>
+		<td>
+			<img src="spacer.gif" width="1" height="36" alt="" /></td>
+	</tr>
+	<tr>
+		
+      <td colspan="2"> <a href="sound_toc.html"><img src="_navb_10.gif" alt="" name="nav_sound" width="218" height="70" border="0" id="_nav_05" /></a></td>
+		<td>
+			<img src="spacer.gif" width="1" height="70" alt="" /></td>
+	</tr>
+	<tr>
+		
+      <td colspan="2" rowspan="2"> <a href="movingimages_toc.html#animation"><img src="_navb_11.gif" alt="" name="nav_animation" width="218" height="55" border="0" id="_nav_06" /></a></td>
+		<td>
+			<img src="spacer.gif" width="1" height="24" alt="" /></td>
+	</tr>
+	<tr>
+		
+      <td colspan="2" rowspan="3"> <a href="movingimages_toc.html"><img src="_nav_07.jpg" alt="" name="nav_video" width="62" height="133" border="0" id="_nav_07" /></a></td>
+		<td>
+			<img src="spacer.gif" width="1" height="31" alt="" /></td>
+	</tr>
+	<tr>
+		
+      <td colspan="2"> <a href="movingimages_toc.html#video"><img src="_navb_14.gif" alt="" name="nav_video" width="218" height="40" border="0" id="_nav_08" /></a></td>
+		<td>
+			<img src="spacer.gif" width="1" height="40" alt="" /></td>
+	</tr>
+	<tr>
+		
+      <td colspan="2"> <a href="pictures_toc.html#beasts"><img src="_navb_15.gif" alt="" name="nav_beasts" width="218" height="62" border="0" id="_nav_09" /></a></td>
+		<td>
+			<img src="spacer.gif" width="1" height="62" alt="" /></td>
+	</tr>
+	<tr>
+		
+      <td rowspan="3"> <a href="pictures_toc.html"><img src="_nav_10.jpg" alt="" name="nav_images" width="60" height="127" border="0" id="_nav_10" /></a></td>  
+      <td colspan="3"> <a href="pictures_toc.html#objects"><img src="_navb_17.gif" alt="" name="nav_objects" width="220" height="47" border="0" id="_nav_11" /></a></td>
+		<td>
+			<img src="spacer.gif" width="1" height="47" alt="" /></td>
+	</tr>
+	<tr>
+		
+      <td colspan="3"> <a href="pictures_toc.html#comics"><img src="_navb_18.gif" alt="" name="nav_comics" width="220" height="38" border="0" id="_nav_12" /></a></td>
+		<td>
+			<img src="spacer.gif" width="1" height="38" alt="" /></td>
+	</tr>
+	<tr>
+		
+      <td colspan="2" rowspan="2"> <a href="pictures_toc.html#photos"><img src="_nav_13.jpg" alt="" name="nav_photos" width="57" height="78" border="0" id="_nav_13" /></a></td>  <td rowspan="2"> <a href="pictures_toc.html#pictures"><img src="_navb_20.gif" alt="" name="nav_pictures" width="163" height="78" border="0" id="_nav_14" /></a></td>
+		<td>
+			<img src="spacer.gif" width="1" height="42" alt="" /></td>
+	</tr>
+	<tr>
+		
+      <td rowspan="2"> <a href="meta_toc.html"><img src="_nav_15.jpg" alt="" name="nav_misc" width="60" height="181" border="0" id="_nav_15" /></a></td>
+		<td>
+			<img src="spacer.gif" width="1" height="36" alt="" /></td>
+	</tr>
+	<tr>
+		
+      <td colspan="3"> <a href="meta_toc.html"><img src="_nav_16.gif" alt="" name="nav_misc" width="220" height="145" border="0" id="_nav_16" /></a></td>
+		<td>
+			<img src="spacer.gif" width="1" height="145" alt="" /></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="spacer.gif" width="60" height="1" alt="" /></td>
+		<td>
+			<img src="spacer.gif" width="2" height="1" alt="" /></td>
+		<td>
+			<img src="spacer.gif" width="55" height="1" alt="" /></td>
+		<td>
+			<img src="spacer.gif" width="163" height="1" alt="" /></td>
+		<td></td>
+	</tr>
+</table>
+
+ 
+</div>
+
+<!-- END NAV -->
+<div align="center"><!-- InstanceBeginEditable name="body" --><img src="images/cubesounds.jpg" width="1000" height="718" border="0" usemap="#cubesounds"> 
+  <map name="cubesounds" id="cubesounds">
+    <area shape="poly" coords="2,683,4,714,323,712,232,611,233,577,84,417,94,463,75,570" href="../artworks/sounds/cube%20sounds/sew2.wav" target="bottomFrame" onClick="MM_controlSound('play','document.CS1116786964495','../artworks/sounds/cube%20sounds/sew2.wav')">
+    <area shape="poly" coords="4,345,5,675,68,571,91,464,86,417,91,387,28,351" href="../artworks/sounds/cube%20sounds/sewing1.wav" target="bottomFrame" onClick="MM_controlSound('play','document.CS1116786953299','../artworks/sounds/cube%20sounds/sewing1.wav')">
+    <area shape="rect" coords="108,224,218,345" href="../artworks/sounds/cube%20sounds/magazinetalk.wav" target="bottomFrame">
+    <area shape="rect" coords="515,402,608,427" href="../artworks/sounds/cube%20sounds/cubetalk1.wav" target="bottomFrame">
+    <area shape="rect" coords="517,431,614,474" href="../artworks/sounds/cube%20sounds/cubetalk2.wav" target="bottomFrame" onClick="MM_controlSound('play','document.CS1116786737709','../artworks/sounds/cube%20sounds/cubetalk2.wav')">
+    <area shape="rect" coords="518,481,649,557" href="../artworks/sounds/cube%20sounds/cubetalk3.wav" target="bottomFrame" onClick="MM_controlSound('play','document.CS1116786896417','../artworks/sounds/cube%20sounds/cubetalk3.wav')">
+    <area shape="poly" coords="147,479,225,484,140,351,84,371,100,427" href="../artworks/sounds/cube%20sounds/multipleseams.wav" target="bottomFrame">
+    <area shape="poly" coords="344,518" href="#">
+    <area shape="rect" coords="756,218,913,436" href="../artworks/sounds/cube%20sounds/saw2.wav" target="bottomFrame">
+    <area shape="rect" coords="635,292,750,467" href="../artworks/sounds/cube%20sounds/saw1.wav" target="bottomFrame">
+    <area shape="rect" coords="286,260,365,399" href="../artworks/sounds/cube%20sounds/staple1.wav" target="bottomFrame">
+    <area shape="rect" coords="461,138,595,320" href="../artworks/sounds/cube%20sounds/staple3.wav" target="bottomFrame">
+    <area shape="rect" coords="367,151,455,395" href="../artworks/sounds/cube%20sounds/staple2.wav" target="bottomFrame">
+  </map>
+  <!-- InstanceEndEditable --> </div>
+<EMBED NAME='CS1116786737709' SRC='../artworks/sounds/cube%20sounds/cubetalk2.wav' LOOP=false 
+AUTOSTART=false MASTERSOUND HIDDEN=true WIDTH=0 HEIGHT=0></EMBED> 
+<EMBED NAME='CS1116786896417' SRC='../artworks/sounds/cube%20sounds/cubetalk3.wav' LOOP=false 
+AUTOSTART=false MASTERSOUND HIDDEN=true WIDTH=0 HEIGHT=0></EMBED> 
+<EMBED NAME='CS1116786953299' SRC='../artworks/sounds/cube%20sounds/sewing1.wav' LOOP=false 
+AUTOSTART=false MASTERSOUND HIDDEN=true WIDTH=0 HEIGHT=0></EMBED> 
+<EMBED NAME='CS1116786964495' SRC='../artworks/sounds/cube%20sounds/sew2.wav' LOOP=false 
+AUTOSTART=false MASTERSOUND HIDDEN=true WIDTH=0 HEIGHT=0></EMBED> 
+<EMBED NAME='CS1116786987418' SRC='../artworks/sounds/cube%20sounds/magazinetalk.wav' LOOP=false 
+AUTOSTART=false MASTERSOUND HIDDEN=true WIDTH=0 HEIGHT=0></EMBED> 
+</body>
+<!-- InstanceEnd --></html>

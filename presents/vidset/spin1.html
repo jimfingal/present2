@@ -1,0 +1,101 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- BEGIN CODE -->
+
+<script language="JavaScript">
+<!--
+
+function showmenu() {
+ if (document.getElementById("menu").style.visibility == "hidden") {
+  document.getElementById("menu").style.visibility = "visible";
+ } else {
+  document.getElementById("menu").style.visibility = "hidden";
+ }
+}
+
+//-->
+</script>
+
+<!-- END CODE -->
+
+          <script language="JavaScript" type="text/javascript">
+
+var message = new Array();
+message[0] = "& you don't stop";
+
+var reps = 1;
+var speed = 50;
+var hold = 0 
+var p = message.length;
+var q = 0;
+var r = 0;
+var C = 0;
+var mC = 0;
+var s = 0;
+var sT = null;
+
+if (reps < 1) {
+reps = 1;
+}
+function setMessage() {
+typing = message[mC];
+q = typing.length;
+r = q + hold;
+typeMessage();
+}
+function typeMessage() {
+if (s > r) {
+s = 0;
+}
+if (s > q) {
+document.title = ''+ typing +' ';
+}
+else {
+document.title = ''+ typing.substr(0,s)+' ';
+}
+if (C < (r * reps)) {
+sT = setTimeout("typeMessage()", speed);
+C++;
+s++;
+}
+else {
+C = 0;
+s = 0;
+mC++;
+if(mC > p - 1) {mC = 0;}
+sT = null;
+setMessage();
+   }
+}
+setMessage();
+//  End -->
+</script>
+
+</head>
+
+<body background="turn2.gif"; onLoad="window.focus();" onBlur="window.focus();">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<embed src="come.mid" loop="infinite"  >
+
+</body>
+</html>
